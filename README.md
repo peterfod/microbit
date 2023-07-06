@@ -1,5 +1,5 @@
 
-> Az oldal megnyitása itt: [https://javawesome.github.io/microbit/](https://javawesome.github.io/microbit/)
+> Az oldal megnyitása itt: [https://peterfod.github.io/microbit/](https://peterfod.github.io/microbit/)
 
 ## Használj egy bővítményt
 
@@ -23,7 +23,7 @@ A repó szerkesztése a MakeCode-ban.
 Ezen a képen az utolsó, fő ághoz tartozó verzió blokk kódja látható.
 A kép frissítése eltarthat néhány percig.
 
-![Renderelt nézet blokkokkal](https://github.com/javawesome/microbit/raw/master/.github/makecode/blocks.png)
+![Renderelt nézet blokkokkal](https://github.com/peterfod/microbit/raw/master/.github/makecode/blocks.png)
 
 #### Metaadatok (kereséshez, rendereléshez)
 
