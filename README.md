@@ -10,7 +10,7 @@ Ez a repó **bővítményként** használható a MakeCode-ban.
 * kattints a **Bővítmények** gombra a fogaskerék menüben
 * **https://github.com/javawesome/microbit** keresése, majd importálás
 
-## A projekt szerkesztése ![Projektbuild állapotát jelző ikon](https://github.com/javawesome/microbit/workflows/MakeCode/badge.svg)
+## A projekt szerkesztése ![Projektbuild állapotát jelző ikon](https://github.com/peterfod/microbit/workflows/MakeCode/badge.svg)
 
 A repó szerkesztése a MakeCode-ban.
 
